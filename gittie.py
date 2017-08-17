@@ -8,7 +8,7 @@ def add():
     print("Bonjour1")
 
 def shout()
-    pass
+    print("!!!")
     print("HahahahahahahahahaHahahahahahahahahaHahahahahahahahahaHahahahahahahahaha")
         print("HahahahahahahahahaHahahahahahahahahaHahahahahahahahahaHahahahahahahahaha")
 
