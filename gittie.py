@@ -4,7 +4,7 @@ def introduce():
 
 
 def add():
-    pass
+    print(input("Add something: "))
 
 
 def joke():
@@ -14,3 +14,4 @@ def joke():
 
 introduce()
 joke()
+add()
