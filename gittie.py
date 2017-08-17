@@ -7,6 +7,9 @@ def add():
     print(input("Add something: "))
     print("Bonjour1")
 
+def shout()
+    pass
+    print("HahahahahahahahahaHahahahahahahahahaHahahahahahahahahaHahahahahahahahaha")
 
 def joke():
     print("Śpiący smacznie na podłodze worek to?")
