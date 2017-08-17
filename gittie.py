@@ -13,6 +13,11 @@ def joke():
     print("Śpiworek. Haha.")
 
 
+def shout():
+    print("Hahahahahahahahaha!")
+
+
 introduce()
 joke()
 add()
+shout()
