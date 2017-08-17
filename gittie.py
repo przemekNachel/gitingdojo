@@ -5,6 +5,7 @@ def introduce():
 
 def add():
     print(input("Add something: "))
+    print("Bonjour1")
 
 
 def joke():
