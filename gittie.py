@@ -10,6 +10,7 @@ def add():
 def shout()
     pass
     print("HahahahahahahahahaHahahahahahahahahaHahahahahahahahahaHahahahahahahahaha")
+        print("HahahahahahahahahaHahahahahahahahahaHahahahahahahahahaHahahahahahahahaha")
 
 def joke():
     print("Śpiący smacznie na podłodze worek to?")
