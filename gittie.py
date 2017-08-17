@@ -1,6 +1,6 @@
 
 def sayhello():
-    print("Hello, I'm Gittie!")
+    print("Hello, I'm Gittie!. Bye")
 
 def add():
     pass
